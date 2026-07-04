@@ -24,6 +24,12 @@ lsof -i :{PORT}
 sudo kill {PORT}
 ```
 
+Run the server on to be fixed !
+
+```bash
+npm run dev
+```
+
 ## Front end TBC: Vite
 
 ## Database : SQLite

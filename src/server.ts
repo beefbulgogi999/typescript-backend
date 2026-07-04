@@ -1,8 +1,10 @@
 import express, { type Request, type Response } from "express";
 import type { User } from "./global/interfaces.js";
+import dotenv from "dotenv";
 
-// intialise (prepare) app
+// intialise (prepare) variables
 const app = express();
+dotenv.config();
 
 const PORT = process.env.PORT || 5999;
 
