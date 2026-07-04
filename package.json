@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Making a TS server that points to a mongodb , via API calls",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky install"
@@ -14,6 +15,7 @@
     "express": "^5.2.1"
   },
   "devDependencies": {
+    "@eslint/js": "^9.39.4",
     "@types/express": "^5.0.6",
     "@types/node": "^26.1.0",
     "eslint": "^9.39.4",
@@ -24,7 +26,8 @@
     "husky": "^8.0.0",
     "lint-staged": "^16.4.0",
     "prettier": "^3.9.4",
-    "typescript": "^6.0.3"
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.62.1"
   },
   "lint-staged": {
     "*.{js,ts,tsx}": [

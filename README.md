@@ -8,6 +8,22 @@ Basic server that can be used to point to a database
 
 - Framework : [Express](https://expressjs.com/en/)
 
+### Commands
+
+Build and run the server
+
+```bash
+npx tsc
+node dist/server.js
+```
+
+Kill the port of the server
+
+```bash
+lsof -i :{PORT}
+sudo kill {PORT}
+```
+
 ## Front end TBC: Vite
 
 ## Database : SQLite
