@@ -41,3 +41,4 @@ One of the key advantages of SQLite is its small footprint. The entire database 
 #### Useful Resources
 
 [SQLite and Node](https://dev.to/simonmackie/a-comprehensive-guide-to-using-sqlite-with-nodejs-549i)
+[Express server](https://medium.com/@ayobamieae/a-detailed-guide-on-how-to-set-up-a-simple-server-with-typescript-72c1594e5692)
