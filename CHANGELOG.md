@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Skeleton of application made:
   - Husky pre commit with npm audit and prettier formatting
   - Eslint for ts
+  - Nodemon for Hot reload of server in Dev mode
 
 ### Changed
 
