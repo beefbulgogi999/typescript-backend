@@ -32,7 +32,13 @@ Run the server the {PORT}, dynamic reload of server on change
 npm run dev
 ```
 
-## Database : SQLite
+## Build docker image
+
+## Host on AWS ? -> need something free lol
+
+## Cloud option : Databases
+
+## Local Database : SQLite
 
 SQLite supports the standard SQL language and provides a wide range of features, including transactions, triggers, and views. It is also ACID-compliant, ensuring data integrity even in the face of system failures.
 
@@ -48,11 +54,12 @@ Prettier:
 ### Static code analysis - Sonarqube
 
 [SonarQube Cloud](https://sonarcloud.io/organizations/beefbulgogi999/projects)
+[Sonar Learning Center](https://learning.sonarsource.com/#/dashboard)
 
 ### Security code analysis - Owasp
 
-[Owasp Scanner]()
-[Owasp set up]()
+<!-- [Owasp Scanner]()
+[Owasp set up]() -->
 
 ### Useful Resources
 
