@@ -47,7 +47,7 @@ Prettier:
 
 ### Static code analysis - Sonarqube
 
-[SonarQube set up]()
+[SonarQube Cloud](https://sonarcloud.io/organizations/beefbulgogi999/projects)
 
 ### Security code analysis - Owasp
 
